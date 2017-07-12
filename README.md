@@ -1,4 +1,4 @@
-### Study Design
+## Study Design
 
 The dataset used for this study is: [Human Activity Recognition](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
@@ -39,9 +39,9 @@ Step 6 is creating the final tidy data set with the average of each variable for
 
 Finally we write the file `tidy.txt`.
 
-### Code book
+## Code book
 
-## Variables
+### Variables
 
 * `activityName`: Text value with the name of the activity.
 * `idSubject`: Integer value with the id of the subject of the experiment.
