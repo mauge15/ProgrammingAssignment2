@@ -2,6 +2,14 @@
 
 The dataset used for this study is: [Human Activity Recognition](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
+Step 1 is reading all the data from .txt files with `read.table`:
+
+`trainFeaturesData <- read.table(file = "UCI HAR Dataset/train/X_train.txt",header=FALSE,dec=".")`
+`testFeaturesData <- read.table(file = "UCI HAR Dataset/test/X_test.txt",header=FALSE,dec=".")`
+`…`
+
+
+
 ### Code book
 
 In this example we introduce the `<<-` operator which can be used to
