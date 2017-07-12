@@ -5,7 +5,9 @@ The dataset used for this study is: [Human Activity Recognition](http://archive.
 Step 1 is reading all the data from .txt files with `read.table`:
 
 `trainFeaturesData <- read.table(file = "UCI HAR Dataset/train/X_train.txt",header=FALSE,dec=".")`
+
 `testFeaturesData <- read.table(file = "UCI HAR Dataset/test/X_test.txt",header=FALSE,dec=".")`
+
 `…`
 
 
