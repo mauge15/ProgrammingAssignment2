@@ -45,5 +45,5 @@ Finally we write the file `tidy.txt`.
 
 * `activityName`: Text value with the name of the activity.
 * `idSubject`: Integer value with the id of the subject of the experiment.
-* `signal’: Text value with the name of the feature measured.
+* `signal`: Text value with the name of the feature measured.
 * `average`: The mean value of the corresponding feature.
