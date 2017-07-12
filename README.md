@@ -1,6 +1,6 @@
 ### Study Design
 
-The dataset used for this study is: [http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones]http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+The dataset used for this study is: [Human Activity Recognition]http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ### Code book
 
