@@ -41,7 +41,7 @@ Finally we write the file `tidy.txt`.
 
 ### Code book
 
-##Variables
+## Variables
 
 * `activityName`: Text value with the name of the activity.
 * `idSubject`: Integer value with the id of the subject of the experiment.
